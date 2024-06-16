@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Spot it out</string>
+    <string name="welcome">Welcome to Spot it out</string>
+    <string name="Nextbtn">Next</string>
+    <string name="allGamesPageMsg">Choose a image to start..</string>
+    <string name="tableHead">Score Table</string>
+    <string name="rank">Rank</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="emoji">🕵️</string>
+    <string name="menuPageMsg">Spot the difference as fast as you can</string>
+    <string name="choose">Please choose a option below...</string>
+    <string name="menuBtn2">High Scores</string>
+    <string name="menuBtn1">New Game</string>
+    <string name="scoreCount">Score: 0/3</string>
+    <string name="timer">60 s</string>
+    <string name="finshBtn">Finish Attempt</string>
+    <string name="lossMsg">Your Loss !</string>
+    <string name="lossScore">Score</string>
+    <string name="reTry">Try again</string>
+    <string name="scoreBtn">View High Scores</string>
+    <string name="winMsg">You Win !</string>
+    <string name="winScore">Score : 3/3</string>
+    <string name="NextLevel">Next Level</string>
+</resources>

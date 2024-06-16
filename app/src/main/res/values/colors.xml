@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#074173</color>
+    <color name="secoundary">#5DEBD7</color>
+    <color name="btncolour">#50C4ED</color>
+    <color name="tableHead">#3559e0</color>
+    <color name="newGamebtn">#5debd7</color>
+    <color name="winBtn">#1679AB</color>
+</resources>
